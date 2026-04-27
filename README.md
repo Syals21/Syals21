@@ -1,4 +1,4 @@
-<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=400&width=2200&bannerText=Welcome+To+My+Profile%F0%9F%91%8B%2C+Syals._&bannerColor=%23b8dcff&color=%234101b7&backgroundColor=%23100f0f&animateVariant=random&geoSeed=YmohwyoAOt" />
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=300&width=2000&bannerText=Welcome+To+My+Profile%F0%9F%91%8B%2C+Syals._&bannerColor=%23b8dcff&color=%234101b7&backgroundColor=%23100f0f&animateVariant=random&geoSeed=YmohwyoAOt" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sundae.y_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhd-syabil-195210339) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syabil1212@gmail.com) 
