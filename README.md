@@ -1,7 +1,9 @@
 ### Hi there! 👋
 
 I'm a **Computer Science student** at Universiti Utara Malaysia with a strong focus on software development, data analytics, and artificial intelligence. I enjoy turning complex problems into engaging, user-friendly tech solutions. 
+
 **🌱 Currently exploring:** Hackathons, gesture-recognition tech, and leveling up my data mining skills.
+
 **⚡ Outside of coding:**
 When I'm away from my keyboard, you can usually find me hitting the jogging, swimming, or gaming.
 
