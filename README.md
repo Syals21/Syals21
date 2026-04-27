@@ -17,5 +17,4 @@ I'm a Computer Science student at Universiti Utara Malaysia with a strong intere
 * **MariaDB Hackathon:** Contributed technical code and collaborated on database-driven solutions.
 
 ### 📫 Let's Connect!
-* LinkedIn: [Link to your LinkedIn]
-* Email: [Your Email Address]
+* Email: [syabil1212@gmail.com]
