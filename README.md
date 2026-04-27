@@ -12,7 +12,7 @@ I'm a **Computer Science student** at Universiti Utara Malaysia with a strong fo
 **⚡ Outside of coding:**
 When I'm away from my keyboard, you can usually find me hitting the gym, swimming, or gaming.
 
-profile-3d-contrib/profile-night-view.svg
+![](./profile-3d-contrib/profile-night-view.svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sundae.y_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhd-syabil-195210339) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syabil1212@gmail.com) 
