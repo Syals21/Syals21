@@ -1,16 +1,9 @@
 ### Hi there! 👋
 
 I'm a **Computer Science student** at Universiti Utara Malaysia with a strong focus on software development, data analytics, and artificial intelligence. I enjoy turning complex problems into engaging, user-friendly tech solutions. 
-
-**🚀 What I do:**
-* **Software Development:** Building out applications using Java, Python, Dart, and SQL.
-* **UI/UX Design:** Crafting clean, minimalist interfaces and prototypes in Figma.
-* **Data & AI:** Exploring machine learning models and working with datasets to build interactive tools.
-
 **🌱 Currently exploring:** Hackathons, gesture-recognition tech, and leveling up my data mining skills.
-
 **⚡ Outside of coding:**
-When I'm away from my keyboard, you can usually find me hitting the gym, swimming, or gaming.
+When I'm away from my keyboard, you can usually find me hitting the jogging, swimming, or gaming.
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
