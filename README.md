@@ -8,7 +8,7 @@
 
 # 📊 GitHub Stats:
 <a href="https://stats.hyo.dev/stats/syals21"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=syals21" width="600" /></a>
-[![Syals github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Syals21&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Syals github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Syals21&theme=nightowl)](https://github.com/Syals21/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
