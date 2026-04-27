@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,java,py,mysql,html,octave,flutter,docker,nodejs,figma,linkedin,discord,instagram,figma&theme=dark)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](./profile-3d-contrib/profile-night-view.svg)
+<a href="https://stats.hyo.dev/stats/syals21"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=syals21" width="600" /></a>
 ![](https://github-readme-stats.shion.dev/api?username=Syals21&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Syals21&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Syals21&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
