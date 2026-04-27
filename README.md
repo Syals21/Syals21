@@ -1,25 +1,16 @@
-# Hi there, I'm Muhammad Syabil! 👋
+### Hi there! 👋
 
-I'm a Computer Science student at Universiti Utara Malaysia with a strong interest in software development, data analytics, and artificial intelligence. I enjoy building applications, designing interfaces, and working with data to create engaging tech solutions.
+I'm a **Computer Science student** at Universiti Utara Malaysia with a strong focus on software development, data analytics, and artificial intelligence. I enjoy turning complex problems into engaging, user-friendly tech solutions. 
 
-### 🔭 Currently Working On
-* Developing an interactive mathematics quiz game utilizing hand gesture recognition.
-* Refining UI/UX prototypes and minimalist designs.
+**🚀 What I do:**
+* **Software Development:** Building out applications using Java, Python, Dart, and SQL.
+* **UI/UX Design:** Crafting clean, minimalist interfaces and prototypes in Figma.
+* **Data & AI:** Exploring machine learning models and working with datasets to build interactive tools.
 
-### 🌱 My Tech Stack
-* **Languages:** Java, Python, Dart, SQL
-* **Tools & Design:** Figma, Canva, Miro
-* **Data & AI:** Orange (Machine Learning), Data Analytics
+**🌱 Currently exploring:** Hackathons, gesture-recognition tech, and leveling up my data mining skills.
 
-### 🚀 Featured Projects
-* **MediConnect:** A healthcare management system visualization and UI prototype built with Figma.
-* **Heart Disease Classifier:** A machine learning project focused on dataset preprocessing and classification.
-* **MariaDB Hackathon:** Contributed technical code and collaborated on database-driven solutions.
-
-### 📫 Let's Connect!
-* LinkedIn: [Link to your LinkedIn]
-* Email: [Your Email Address]
-
+**⚡ Outside of coding:**
+When I'm away from my keyboard, you can usually find me hitting the gym, swimming, or gaming.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sundae.y_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhd-syabil-195210339) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syabil1212@gmail.com) 
