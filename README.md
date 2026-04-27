@@ -1,4 +1,18 @@
-<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=400&width=2000&bannerText=Welcome+To+My+Profile%F0%9F%91%8B%2C+Syals._&bannerColor=%23b8dcff&color=%234101b7&backgroundColor=%23100f0f&animateVariant=random&geoSeed=YmohwyoAOt" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="60" height="60" />
+  
+  <h1>Hey there, I'm Muhammad Syabil! 🚀</h1>
+  
+  <a href="https://github.com/Syals21">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=783FFD&center=true&vCenter=true&width=800&height=50&lines=Welcome+To+My+Profile+👋;Computer+Science+Student+@+UUM+🎓;Aspiring+Software+%26+AI+Developer+💻;I+Love+Building+Interactive+Things+✨;Data+Analytics+%26+Minimalist+UI%2FUX+🎨" alt="Typing Animation" />
+  </a>
+  
+  <p><i>Turning coffee into code, exploring machine learning, and designing clean interfaces.</i></p>
+  
+  <br>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a44b-11eb-8682-7af694749151.gif" width="100%" alt="divider">
+</div>
 
 # 
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=50&width=2000&bannerText=%F0%9F%8C%90+Socials%3A&bannerColor=%23b9fdfc&color=%23783ffd&backgroundColor=%230f0318&animateVariant=random&geoSeed=YmohwyoAOt" />
