@@ -4,13 +4,12 @@
   <h1>Hey there, I'm Muhammad Syabil! 🚀</h1>
   
   <a href="https://github.com/Syals21">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=783FFD&center=true&vCenter=true&width=800&height=50&lines=Welcome+To+My+Profile+👋;Computer+Science+Student+@+UUM+🎓;Aspiring+Software+%26+AI+Developer+💻;I+Love+Building+Interactive+Things+✨;Data+Analytics+%26+Minimalist+UI%2FUX+🎨" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1000&color=783FFD&center=true&vCenter=true&width=800&height=50&lines=Welcome+To+My+Profile+%F0%9F%91%8B;Computer+Science+Student+at+UUM+%F0%9F%8E%93;Aspiring+Software+and+AI+Developer+%F0%9F%92%BB" alt="Typing Animation" />
   </a>
   
   <p><i>Turning coffee into code, exploring machine learning, and designing clean interfaces.</i></p>
-  
-  <br>
-  
+</div>
+
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a44b-11eb-8682-7af694749151.gif" width="100%" alt="divider">
 </div>
 
@@ -18,15 +17,15 @@
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=50&width=2000&bannerText=%F0%9F%8C%90+Socials%3A&bannerColor=%23b9fdfc&color=%23783ffd&backgroundColor=%230f0318&animateVariant=random&geoSeed=YmohwyoAOt" />
 
 <a href="https://instagram.com/Sundae.y_">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" height="60">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" height="80">
 </a>
 
 <a href="https://www.linkedin.com/in/muhd-syabil-195210339">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" height="60">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" height="80">
 </a>
 
 <a href="mailto:syabil1212@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="60">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="80">
 </a>
 
 #
