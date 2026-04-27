@@ -4,13 +4,15 @@
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=50&width=2000&bannerText=%F0%9F%8C%90+Socials%3A&bannerColor=%23b9fdfc&color=%23783ffd&backgroundColor=%230f0318&animateVariant=random&geoSeed=YmohwyoAOt" />
 
 <a href="https://instagram.com/Sundae.y_">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="80">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" height="60">
 </a>
+
 <a href="https://www.linkedin.com/in/muhd-syabil-195210339">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="80">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" height="60">
 </a>
+
 <a href="mailto:syabil1212@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="80">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="60">
 </a>
 
 #
