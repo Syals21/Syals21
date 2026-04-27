@@ -4,12 +4,12 @@
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=50&width=2000&bannerText=%F0%9F%8C%90+Socials%3A&bannerColor=%23b9fdfc&color=%23783ffd&backgroundColor=%230f0318&animateVariant=random&geoSeed=YmohwyoAOt" />
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sundae.y_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhd-syabil-195210339) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syabil1212@gmail.com) 
-#
+
 #
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=200&width=2200&bannerText=%F0%9F%92%BB+Tech+Stack%3A&bannerColor=%23b9fdfc&color=%23783ffd&backgroundColor=%230f0318&animateVariant=random&geoSeed=YmohwyoAOt" />
 
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,java,py,mysql,html,octave,flutter,docker,nodejs,figma,linkedin,discord,instagram,figma&theme=dark)](https://skillicons.dev)
-#
+
 # 
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=200&width=2200&bannerText=%F0%9F%93%8A+GitHub+Stats%3A&bannerColor=%23b9fdfc&color=%23783ffd&backgroundColor=%230f0318&animateVariant=random&geoSeed=YmohwyoAOt" />
 
